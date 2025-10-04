@@ -106,3 +106,4 @@ Potential improvements could include:
 - Advanced search filters
 - Movie reviews and comments
 - Integration with other movie databases
+
